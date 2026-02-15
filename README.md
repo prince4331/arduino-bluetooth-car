@@ -1,4 +1,6 @@
-﻿# Bluetooth Car Controller
+﻿# Bluetooth Car
+
+![Platform](https://img.shields.io/badge/platform-Arduino-1f6feb) ![Focus](https://img.shields.io/badge/focus-Robotics-brightgreen) ![Status](https://img.shields.io/badge/status-Active-success)
 
 Serial Bluetooth interface that drives an L298N-based differential robot via simple commands.
 
